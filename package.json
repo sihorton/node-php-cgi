@@ -1,10 +1,16 @@
 {
   "name": "php-cgi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "run php scripts from nodejs through cgi interface",
   "main": "index.js",
+  "repository":{
+	"type": "git",
+	"url":"https://github.com/sihorton/node-php-cgi.git"
+  },
   "keywords": [
-    "php"
+    "php",
+	"deskshell",
+	"appjs"
   ],
   "author": "sihorton",
   "license": "MIT"

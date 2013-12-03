@@ -5,7 +5,7 @@ var os = require("os"),
 	spawn = require('child_process').spawn
 ;
 var Me = {
-	bin:"php"
+	bin:"php-cgi"
 	,env:{
 		'SERVER_SOFTWARE':"nodejs"
 		,'SERVER_PROTOCOL':"HTTP/1.1"
