@@ -1,0 +1,11 @@
+{
+  "name": "php-cgi",
+  "version": "0.1.0",
+  "description": "run php scripts from nodejs through cgi interface",
+  "main": "index.js",
+  "keywords": [
+    "php"
+  ],
+  "author": "sihorton",
+  "license": "MIT"
+}
