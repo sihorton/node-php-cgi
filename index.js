@@ -1,8 +1,9 @@
 /**
 *
 */
-var os = require("os"),
-	spawn = require('child_process').spawn
+var os = require("os")
+	,spawn = require('child_process').spawn
+	,path = require("path")
 ;
 var Me = {
 	bin:"php-cgi"
